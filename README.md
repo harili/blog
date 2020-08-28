@@ -1,2 +1,2 @@
-# blog
-Blog d'entraînement - MERN
+# Blog MERN
+Blog - entraînement (MangoDB - Express.js - ReactJS - Node.js)
